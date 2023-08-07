@@ -6,3 +6,4 @@ const menuItems = document.querySelector('.menu');
 burgerButton.addEventListener('click', () => {
     menuItems.classList.toggle("menu__visible");
 })
+
